@@ -1,0 +1,11 @@
+C:\Users\zombi\source\repos\HesapMakinesi1\HesapMakinesi1\bin\Debug\HesapMakinesi1.exe.config
+C:\Users\zombi\source\repos\HesapMakinesi1\HesapMakinesi1\bin\Debug\HesapMakinesi1.exe
+C:\Users\zombi\source\repos\HesapMakinesi1\HesapMakinesi1\bin\Debug\HesapMakinesi1.pdb
+C:\Users\zombi\source\repos\HesapMakinesi1\HesapMakinesi1\obj\Debug\HesapMakinesi1.csproj.AssemblyReference.cache
+C:\Users\zombi\source\repos\HesapMakinesi1\HesapMakinesi1\obj\Debug\HesapMakinesi1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zombi\source\repos\HesapMakinesi1\HesapMakinesi1\obj\Debug\HesapMakinesi1.Form1.resources
+C:\Users\zombi\source\repos\HesapMakinesi1\HesapMakinesi1\obj\Debug\HesapMakinesi1.Properties.Resources.resources
+C:\Users\zombi\source\repos\HesapMakinesi1\HesapMakinesi1\obj\Debug\HesapMakinesi1.csproj.GenerateResource.cache
+C:\Users\zombi\source\repos\HesapMakinesi1\HesapMakinesi1\obj\Debug\HesapMakinesi1.csproj.CoreCompileInputs.cache
+C:\Users\zombi\source\repos\HesapMakinesi1\HesapMakinesi1\obj\Debug\HesapMakinesi1.exe
+C:\Users\zombi\source\repos\HesapMakinesi1\HesapMakinesi1\obj\Debug\HesapMakinesi1.pdb
